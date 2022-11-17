@@ -23,6 +23,8 @@ const SongCard = ({ song, i }) => {
           className="w-full h-full"
         />
       </div>
+
+      <div className="mt-4 flex flex-col"></div>
     </div>
   );
 };
